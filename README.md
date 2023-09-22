@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Siam</h1>
 <h3 align="center">A passionate Web developer & AI Machine Learning</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MohammadSiam](https://github.com/MohammadSiam)
-
 - 📫 How to reach me **siamk417@gmail.com**
 
 - 📄 Know about my experiences [https://mohammadsiam.github.io/My_Portfolio/](https://mohammadsiam.github.io/My_Portfolio/)
