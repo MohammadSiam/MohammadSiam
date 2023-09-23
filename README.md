@@ -3,13 +3,13 @@
 
 - 📫 How to reach me **siamk417@gmail.com**
 
-- 📄 Know about my experiences [https://mohammadsiam.github.io/My_Portfolio/](https://mohammadsiam.github.io/My_Portfolio/)
+- 📄 Know about myself [https://mohammadsiam.github.io/My_Portfolio/](https://mohammadsiam.github.io/My_Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siamk417/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siamk417/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/abdurrahman.siam.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdurrahman.siam.9/" height="30" width="40" /></a>
-<a href="https://discord.gg/siam0099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="siam0099" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/siamk417/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siamk417/" height="30" width="30" /></a>
+<a href="https://fb.com/https://www.facebook.com/abdurrahman.siam.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdurrahman.siam.9/" height="30" width="30" /></a>
+<a href="https://discord.gg/siam0099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="siam0099" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
