@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **siamk417@gmail.com**
 
-- 📄 Know about myself [https://mohammadsiam.github.io/My_Portfolio/](https://mohammadsiam.github.io/My_Portfolio/)
+- 📄 Know about myself [VISIT MY PORTFOLIO](https://developersiam.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
