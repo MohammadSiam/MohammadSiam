@@ -4,7 +4,9 @@
 - 📫 How to reach me **siamk417@gmail.com**
 
 - 📄 Know about myself [VISIT MY PORTFOLIO](https://developersiam.netlify.app/)
-- <figure><embed src="https://wakatime.com/share/@018e3589-19d1-44c2-96c4-624f21389c8a/8b3c0092-2547-4919-b34f-c7f6ecc2d575.svg"></embed></figure>
+
+
+<figure><embed src="https://wakatime.com/share/@018e3589-19d1-44c2-96c4-624f21389c8a/8b3c0092-2547-4919-b34f-c7f6ecc2d575.svg"></embed></figure>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
