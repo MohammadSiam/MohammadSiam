@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadsiam&show_icons=true&locale=en" alt="mohammadsiam" /></p>
 
-<figure><embed src="https://wakatime.com/share/@018e3589-19d1-44c2-96c4-624f21389c8a/2a71c251-ede3-45fb-87d7-b033eccb36fc.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018e3589-19d1-44c2-96c4-624f21389c8a/3be4f171-ca7b-4ff8-ada9-367c467084fd.png" /></a>
