@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Siam</h1>
-<h3 align="center">A passionate Web developer & AI Machine Learning</h3>
+<h3 align="center">A passionate Web developer & AI Machine Learning Enthusiast</h3>
 
 - 📫 How to reach me **siamk417@gmail.com**
 
